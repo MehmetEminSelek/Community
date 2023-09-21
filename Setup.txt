@@ -1,0 +1,12 @@
+If there is no enviroment has beed installed you should follow the steps below
+
+Terminal => New Terminal then copy and paste following commands one by one
+
+py -m venv .Community (should be in the root folder)
+py -m pip install Django   
+pip3 install djangorestframework
+pip install mysqlclient
+pip install django-cors-headers
+pip install Pillow
+pip3 install python-decouple
+pip install drf-yasg
